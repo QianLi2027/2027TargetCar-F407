@@ -136,7 +136,7 @@ IDLE,0         保活：刷新时间戳 + 停车
 cmake --build build/Debug
 
 # 产物
-build/Debug/F407-StandardTemplate.elf
+build/Debug/F407-TargetCar.elf
 ```
 
 烧录用 ST-LINK（CubeProgrammer / CLion 的 Run 配置都行）。
